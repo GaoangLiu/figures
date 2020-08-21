@@ -66,6 +66,7 @@ def _block_by_frequency(rate=100):
 
     for dd in blacklists:
         block_ip(dd[0])
+        os.system(f'/usr/local/bin/pihole -b {dd[1]}')
         msg = "{:<16} is blocked for attacking {:<16}".format(dd[0], dd[1])
         logging.info(msg)
 
@@ -75,7 +76,7 @@ def _block_by_frequency(rate=100):
         os.system('echo "" > /var/log/pihole.log ')
     else:
         os.system('/usr/sbin/ufw allow 80')
-        os.system('/usr/sbin/ufw allow 80')
+        os.system('/usr/sbin/ufw allow 53')
 
 
 if __name__ == "__main__":
