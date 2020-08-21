@@ -5,10 +5,10 @@ import logging
 import arrow 
 # import mysql.connector as sql
 
-# logging.basicConfig(filename='/var/log/pihole-blocker.log',
-#                     filemode='a',
-#                     format="[%(asctime)-15s]  %(message)s",
-#                     level=logging.INFO)
+logging.basicConfig(filename='/var/log/pihole-blocker.log',
+                    filemode='a',
+                    format="[%(asctime)-15s]  %(message)s",
+                    level=logging.INFO)
 
 class SQL:
     def __init__(self):
