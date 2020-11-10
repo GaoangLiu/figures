@@ -1,8 +1,10 @@
 
 
 1. 政治丑闻
-    1. [希拉里邮件门][https://zh.wikipedia.org/zh-cn/希拉里邮件门](https://zh.wikipedia.org/zh-cn/%E5%B8%8C%E6%8B%89%E9%87%8C%E9%82%AE%E4%BB%B6%E9%97%A8)。
+    1. 希拉里邮件门 [https://zh.wikipedia.org/zh-cn/希拉里邮件门](https://zh.wikipedia.org/zh-cn/%E5%B8%8C%E6%8B%89%E9%87%8C%E9%82%AE%E4%BB%B6%E9%97%A8)。
+
         维基原文: ... 不过，10月28日，科米一度宣布发现新线索，决定需要重启有关调查，被认为最终影响2016年美国大选，导致共和党的唐纳德·特朗普最终当选的原因之一 ...
+        
         影响: 据 CNN 2016 年 7 月 25 日公布的最新民调显示，大约 44% 的被调查者支持特朗普担任下届美国总统，39% 的人支持希拉里，这是特朗普支持率首次超过希拉里
     2. 在投票开始的前一周内，Biden 之子亨特.拜登 (Robert Hunter Biden) 被连续爆出(未经证实的)丑闻，Google trends 中关键词条 "更改投票选择" (can I change my vote) 与 "Hunter Biden" 的搜索量同步增加
 
