@@ -13,7 +13,10 @@
         <img src="http://git.io/JkTES" alt="Googe Trends" width="500px">
 
 
-2. 阴谋论 
+2. 阴谋论/炒作
+    - Hillary 在 2016.9.11 纪念活动现场身体出现"不适"，被媒体宣称可能患有癫痫、帕金森氏病、言语障碍症甚至老年痴呆症，事实上只是肺炎。 
+    
+    1. 突发疾病: Hillary 也因为对大众隐瞒病情，继续参与竞选，[NYT](https://cn.nytimes.com/world/20160913/hillary-clinton-pneumonia/): "当选民在民意调查中被问及他们是否认为克林顿“诚实且值得信任”时，这种看法已经在让她得到的票数有所下降".
 
 
 3. 背书 (endorsement) 
